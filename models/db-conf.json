@@ -1,0 +1,9 @@
+{
+    "mysql" : {
+        "host" : "192.168.64.2",
+        "port" : 3306,
+        "user" : "conexion",
+        "pass" : "123",
+        "db" : "movies"
+    }
+}

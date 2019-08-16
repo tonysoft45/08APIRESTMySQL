@@ -1,0 +1,29 @@
+{
+  "name": "apirestmysql",
+  "version": "0.0.1",
+  "description": "API REST MVC con MYSQL, Express y Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "MVC",
+    "MySQL"
+  ],
+  "author": "Antonio Barajas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-method-override": "0.0.3",
+    "express-myconnection": "^1.0.4",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.17.1",
+    "responsimple": "^1.0.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
